@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou no 4° termo de sistemas de informação
 - 📫 Me contate em: marygoncalvesduarte92@gmail.com
 - 😄 Pronouns: Ela/Dela
-- 
+
 ###
 
 <div align="center">
