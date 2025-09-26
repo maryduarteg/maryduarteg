@@ -6,7 +6,10 @@
 
 ###
 
-
+<div align="center">
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryduarteg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
