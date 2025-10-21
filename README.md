@@ -1,7 +1,7 @@
 ## Olá! Sou a Mary Duarte 🤗
 
 - 🌱 Atualmente estou no 4° termo de sistemas de informação
-- 📫 Me contate em: marygoncalvesduarte92@gmail.com
+- 📫 Me contate em: maryadryanyduarte@gmail.com
 - 😄 Pronouns: Ela/Dela
 
 ###
