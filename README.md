@@ -1,7 +1,7 @@
 ## Olá! Sou a Mary Duarte 🤗
 
-- 🌱 Atualmente estou no 6° termo de sistemas de informação
-- ⚙️ Estagiária de analista de desenvolvimento de sistemas
+- 🌱 Atualmente estou no 7° termo de sistemas de informação
+- ⚙️ Estagiária de Q.A.
 - 📫 Me contate em: maryadryanyduarte@gmail.com
 - 😄 Pronouns: Ela/Dela
 
