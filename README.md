@@ -30,10 +30,8 @@
 
 <div align="center">
   <a href="https://github.com/maryduarteg">
-    <!-- Sequência de Commits (Streak Stats) -->
     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=maryduarteg&theme=dracula&hide_border=true" alt="GitHub Streak" />
     
-    <!-- Gráfico de Atividade -->
     <img height="170em" src="https://github-readme-activity-graph.vercel.app/graph?username=maryduarteg&theme=dracula&hide_border=true" alt="Gráfico de Atividade" />
   </a>
 </div>
