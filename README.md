@@ -85,5 +85,5 @@
 <br/>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd3bmRxZnJybWZleWlyN3Uzb3lsZ3Rza21mYTBnNnp4NDZwZTF6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" alt="GIF fofo de programação" />
+  <img height="200" src="https://c.tenor.com/yWdIP4we0WoAAAAd/tenor.gif" alt="Orca GIF" />
 </div>
