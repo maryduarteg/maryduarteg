@@ -27,15 +27,17 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Atividade
 
 <div align="center">
   <a href="https://github.com/maryduarteg">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maryduarteg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryduarteg&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
+    <!-- Sequência de Commits (Streak Stats) -->
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=maryduarteg&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    
+    <!-- Gráfico de Atividade -->
+    <img height="170em" src="https://github-readme-activity-graph.vercel.app/graph?username=maryduarteg&theme=dracula&hide_border=true" alt="Gráfico de Atividade" />
   </a>
 </div>
-
 ---
 
 ### 📬 Vamos nos conectar!
